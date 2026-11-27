@@ -16,7 +16,13 @@ Learning Goals
 
 Projects
 
-Coming soon!
+### 1. Student Marks Analysis
+- Python and Pandas
+- Total and percentage calculations
+- Class average and topper
+- Matplotlib bar chart
+
+File: Student_Marks_Analysis.ipynb
 
 Author
 
