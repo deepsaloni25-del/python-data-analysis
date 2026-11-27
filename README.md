@@ -1,10 +1,10 @@
 Python Data Analysis
 
-Welcome to my beginner Python Data Analysis portfolio!
+Welcome to my beginner Python portfolio!
 
 About
 
-I am a B.Sc. Artificial Intelligence and Machine Learning student.
+B.Sc. Artificial Intelligence and Machine Learning student.
 
 Learning Goals
 
@@ -20,5 +20,4 @@ Coming soon!
 
 Author
 
-Deep Saloni python-data-analysis
-My beginner Python and Data Analysis projects.
+Deep Saloni
